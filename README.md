@@ -61,6 +61,16 @@ I keep the link to the command page on the top line next to my links to other fr
 This project can benefit most nsf grant reviewers.
 Make a pull request, post an issue, or send me an e-mail with additions in CSV format.
 
+
+## Update Table
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.1 |  Added update table and corrected wording in README.md.                                                                                    | 2024 August 30        |
+| Version 0.1 |  Initiated project, added update table, source of funds, and badges.                                                                                    | 2024 August 30        |
+
+
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West)
